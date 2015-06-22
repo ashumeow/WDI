@@ -91,4 +91,5 @@ WDIsearch('gdp', cache=new_cache)
 
 Thanks for using `WDI`! Please send all bug reports and suggestions through the github issue tracker or by email at varel@umich.edu 
 
-
+# Related Links
+[1] http://www.r-bloggers.com/global-indicator-analyses-with-r-3/
